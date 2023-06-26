@@ -1,0 +1,2919 @@
+fileFormatVersion: 2
+guid: 06477fb2142a5f9428517bb05b26da7e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: happycat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8262
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b785cf0e9b9624f9c6958856292485
+      internalID: 1716193708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 8262
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274c29e49b3b2074681696b682cee8d5
+      internalID: -1233011659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 8262
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9041734b25ca084f91ac7555b107fb5
+      internalID: 1455516289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 8262
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdfbb77645a17f44b54753da8c365d8
+      internalID: -1519646093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_4
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 8262
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ee46098e41b284a820189bb286ffc4
+      internalID: -404050930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_5
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 8262
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc1f201a4d69a4882fc3611f3583d6
+      internalID: 1214493769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_6
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 8262
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f1ff48c9c58a46a9786431987e4b6
+      internalID: -269436751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7776
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df253cee9958d149b695b08ff495f04
+      internalID: 1502406999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7776
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac5ca0216f423d4184308b958fd81b5
+      internalID: 1242015548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 7776
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d72ec9b078de640bc105288a75a78a
+      internalID: 565377738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_10
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 7776
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d0459e7386b574688fad486b617c48
+      internalID: 1961994474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_11
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 7776
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd3fd5b52b20841adc324a57d2388b
+      internalID: -1401493069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_12
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 7776
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6816b128396de64f8fd0e5c8004d5eb
+      internalID: -809994340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_13
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 7776
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796f7111f77f0eb4d8037db0d72dbd7a
+      internalID: -886945080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7290
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4bc01e504bea046bf26a0a0745dc10
+      internalID: -406523777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7290
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aed2439f274ae24abcd89c920712175
+      internalID: 2047572175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_16
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 7290
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2288f8a630786df4cb510241d328e84e
+      internalID: 1433423928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_17
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 7290
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcd77616077a1246940f5ae8d9e285b
+      internalID: 996583393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_18
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 7290
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe2dc619f10f50408b15f932a2e33b0
+      internalID: -2146760068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_19
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 7290
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce9a51c359c6e14899de665434c5582
+      internalID: 1727664324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_20
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 7290
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bfd9a1a400e244f88576b1ca0d3488
+      internalID: 765249923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6804
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b26560fd79d604fa988e7486968397
+      internalID: 1626436921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6804
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d92da36ddbb5e440924ddf71a8af751
+      internalID: -1557293891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_23
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 6804
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2617d8ee35dfd9040aa83dea1d8894c0
+      internalID: 273481056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_24
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6804
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bba57d4a24593449d5785bbbfb58c7
+      internalID: -1933513127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_25
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 6804
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f73a4d88cca6b4ab2de5acc92707f2
+      internalID: -1857242942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_26
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 6804
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44717ef67453892499dbef1d11e20581
+      internalID: -305395929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_27
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 6804
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af46f21475da1e4bb48d5fa33000a4f
+      internalID: 756901265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6318
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea10da2291eccc3469d2478399b1fc11
+      internalID: 996701320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_29
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6318
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da38e7b046ad99e48a191aa4faae6185
+      internalID: 1432375234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_30
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 6318
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637f791972fb614797202df0344504d
+      internalID: 1218080497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_31
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6318
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355c6dc79bf44a047844b4f266daf522
+      internalID: -1056480357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_32
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 6318
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd7ca19b3bf2c4c80141edb7676b4e
+      internalID: 609584630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_33
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 6318
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c38b1de38762498cc52be6ca66235
+      internalID: 2015022025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_34
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 6318
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fdbdfac091ce84f9dd633962370423
+      internalID: -821786326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5832
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d042ac367dfb243b9320a323d679b3
+      internalID: 94405114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_36
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5832
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7455d78d4a05d214e957cbc6adfbed7e
+      internalID: -1919906413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_37
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 5832
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50fe079a9a63634ebf7c45cc25db902
+      internalID: 1622187308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_38
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 5832
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e211c5ee23a0e324ea44fb3e495adeb3
+      internalID: -1191840538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_39
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 5832
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a898f4320daab4cb69230a0300fdb7
+      internalID: -2097331698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_40
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 5832
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1d18ca50151041a1c029b0c3cd865
+      internalID: 1914852637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_41
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 5832
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a9a04c808efd4489e701f61cd2b8f9
+      internalID: 428814045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5346
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82419876e6a8e346ab82815ad98a73a
+      internalID: -731595810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_43
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5346
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3552fe6181c9c2a4882424d12e2f8abf
+      internalID: -1957561203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 5346
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b107d8085dda47a53ec87a1f08b20
+      internalID: 831083165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_45
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 5346
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3010fecd0dc940a63e6137399978a
+      internalID: -2029160478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_46
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 5346
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6f48118b792974ca567192b0681397
+      internalID: -314787023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_47
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 5346
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9737439262907844786af55b363f45ec
+      internalID: -698325181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_48
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 5346
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299e0f8169905c44aa3cc2b708d61865
+      internalID: -1243239250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4860
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e2accd80d2c9e4f970bcf07c767789
+      internalID: -1853498361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 4860
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46960f5886a59a545ab0ef15385b033a
+      internalID: -886895658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_51
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4860
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2593e3040729eb4482e6358461f50e5
+      internalID: 1190706507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_52
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4860
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7d458963ea2e94bbe06d7d0506a985
+      internalID: 1939997084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_53
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4860
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340c794141db6dd4b8dd59e315f08826
+      internalID: -1072908547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_54
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 4860
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb47da2c88d024ca6d5b8149990ffc
+      internalID: 178489600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_55
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 4860
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17792412c2478244acf65cd33fb1a57
+      internalID: -1072831145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4374
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7680ebb1186734b4095c908cbd5c0aae
+      internalID: 1828686625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_57
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 4374
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a652e9dade62b64e98eddf56db049fc
+      internalID: -477482658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_58
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4374
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd775ad725599a04aa57d209b0efb035
+      internalID: 2082763500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_59
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4374
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53094891dea61bd4cb7a00d05eeb15fe
+      internalID: -681685067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_60
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4374
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c6db9e579a23542980d77d001cf516
+      internalID: -295924757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_61
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 4374
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d189a1865d9919a4aab6a86292e8b472
+      internalID: 273705143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_62
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 4374
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2711c4a584653874d8b294966deb524d
+      internalID: 86193277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3888
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f81dcb8ab47e7e4c818893370757086
+      internalID: 1665221663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_64
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3888
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4af30649c4e5594f8adee0dc827b098
+      internalID: 1931920869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_65
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3888
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab40f38de79f94aa4adbeeee2b22ef
+      internalID: -1791132321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_66
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3888
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f401c22e6ab4d254591516d4ba44d1cf
+      internalID: 589226447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_67
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3888
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3007cb4aa6d6bd4799d9c601227d2ac
+      internalID: 1931755438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_68
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3888
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7adb8c3bab974546886fa65152247b5
+      internalID: 1574758770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_69
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3888
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8487df2f8699fd542b2abe613991923e
+      internalID: 333299801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3402
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517a16aec1518f47b8c7d970ede3db7
+      internalID: 486138634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_71
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3402
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4d5fec195edde49996d10e4fdb7a77
+      internalID: 25517963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_72
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3402
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d1c064e9015b340a7a06f19d8a0629
+      internalID: 388059315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_73
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3402
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25163443c76b2b946841ee5e5a8fcb7e
+      internalID: 1993215325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_74
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3402
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6a915903389b1488d4e213ed842fe7
+      internalID: -1502937158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_75
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3402
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b20f3c9c63cad458ddca03a0f43c24
+      internalID: 245941046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_76
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3402
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae186ce2ff82914a944efb12daf9591
+      internalID: -929297318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2916
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cd07b05cb976741adcf53c4cced064
+      internalID: -11542703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_78
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2916
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dca45224479514b8025a109b50f515
+      internalID: 7524032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_79
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2916
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae1c68c3fff23749afb0ee6d0b03845
+      internalID: -1794445727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_80
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2916
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b0c6b580011e49b7f0d3a064795ed
+      internalID: -1286598376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_81
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2916
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e633717c42dc8f4c9a11069a4c065b8
+      internalID: -941987746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_82
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2916
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcc2ed88db60a946999150bf9f6abf1
+      internalID: -101903821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_83
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2916
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fb3453ab01eef49a16eb731c027506
+      internalID: 1721299034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2430
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba403bc990f5943478c581848dcb9bc4
+      internalID: -969320947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_85
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2430
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0280b3a0fa0795488fa436b6f83dda4
+      internalID: 2034291858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_86
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2430
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b5e5ea47a71c24abcaeb7c3833e63d
+      internalID: -1514857191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_87
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2430
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c93335494ae75b4dadc97503f43ec0d
+      internalID: -1792500941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_88
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2430
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ddfc3a62fc1945b8ebd23f8af58d3
+      internalID: 1812788535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_89
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2430
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0676e4e1de22645a44d5b3f50a6cd8
+      internalID: 520995020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_90
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2430
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2fbb2ae61ecf34ca6434097b9c9c78
+      internalID: 1260057048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8629a035158a6c74d80f6f93f8f694e0
+      internalID: -938014937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_92
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1944
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42239abebb643ed469f73b06762c35d4
+      internalID: 627372758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_93
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1944
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0355e13f9a5396c44a7166aa457ff2c1
+      internalID: -670546055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_94
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1944
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fe4a1db7422ac45b115b8bac7733e3
+      internalID: 922509291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_95
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1944
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21804b8ec22864d4e8cde03aef9f1a96
+      internalID: -968635522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_96
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1944
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ac26d04438bb4409a39320bdabaccb
+      internalID: 526897290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_97
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1944
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635fa93ba23dfb64ba2c7fe5a9758a58
+      internalID: -2010077831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1458
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9d3d6a7b1ec7547a190ddac1cc76da
+      internalID: -182914352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_99
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1458
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e693ce692f71634387a69fccb7c3276
+      internalID: -1690715031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_100
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1458
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae216e2781c35b48bdaf4129620c036
+      internalID: -1627083378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_101
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1458
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa93a3d813402764e8f85ba41a44e8f1
+      internalID: -840344843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_102
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1458
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db08b27ce9d26ff43b5124c03342ead0
+      internalID: -1362688005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_103
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1458
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f3b3c99961f0a48bd5860dfdf2c062
+      internalID: 337874568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_104
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1458
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36a3ce51b9cf0b47a8a9768cd3f1db5
+      internalID: -766047809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e7311d4f28fae459b846b3a9ddfed8
+      internalID: 1280149675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_106
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 972
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d610836c85d89429a3062066067545
+      internalID: 1911969540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_107
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 972
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0124aaec42f3944aa61e9b688cd7c1
+      internalID: 1547597808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_108
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 972
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d5ededefdb5d4c9428dbfea148a57
+      internalID: 1888457075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_109
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 972
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3227aa1e64621094faa44218f256685d
+      internalID: -1278840683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_110
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 972
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b0b9109b6f7184fb0135cc76b1ab9c
+      internalID: 1221283354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_111
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 972
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca2b467b00f8c4a9b2f14c624e869e
+      internalID: -1353362828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72e4afb26636442b493e03deb4e83a
+      internalID: 862022301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_113
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 486
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1430a3044a4a6524e897213a2522d59e
+      internalID: -343999667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_114
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 486
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6617752b41869d04dbcebf3d8e40d04d
+      internalID: -1123294613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_115
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 486
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af200e86d0f17b84792ca5224abf6569
+      internalID: 139003376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_116
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 486
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816f5ef49a1ed5846af30e0c824880b6
+      internalID: -1890124905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_117
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 486
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535abac027477ce4e97a77850ee54906
+      internalID: -845987259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_118
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 486
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de104467d65ae8d49b92c1758301d20d
+      internalID: 369154289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7ed081f4f994549b5ada44b04ed977
+      internalID: 2123590117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_120
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b2395f759c4124cba9274e0bd17543
+      internalID: -519796596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_121
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb8521df11d1b547ad299c6d4a2168d
+      internalID: -198490570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_122
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564d0c99807086a44a760edcb3454b82
+      internalID: -868232122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_123
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ca9f305217e9f4e8cd1aa5b7e72b22
+      internalID: -418288976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_124
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a50e57656716d40aae37596d7fa57b
+      internalID: 1056050930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happycat_125
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 498
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c742d537c5d94a8099d3298bb6556
+      internalID: -1965490049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fcaf5bf68b22d1544b1a2a4b19a53554
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      happycat_90: 1260057048
+      happycat_4: -404050930
+      happycat_47: -698325181
+      happycat_28: 996701320
+      happycat_13: -886945080
+      happycat_49: -1853498361
+      happycat_58: 2082763500
+      happycat_61: 273705143
+      happycat_66: 589226447
+      happycat_101: -840344843
+      happycat_89: 520995020
+      happycat_95: -968635522
+      happycat_80: -1286598376
+      happycat_124: 1056050930
+      happycat_100: -1627083378
+      happycat_15: 2047572175
+      happycat_84: -969320947
+      happycat_23: 273481056
+      happycat_25: -1857242942
+      happycat_81: -941987746
+      happycat_10: 1961994474
+      happycat_0: 1716193708
+      happycat_46: -314787023
+      happycat_12: -809994340
+      happycat_71: 25517963
+      happycat_44: 831083165
+      happycat_117: -845987259
+      happycat_93: -670546055
+      happycat_111: -1353362828
+      happycat_106: 1911969540
+      happycat_59: -681685067
+      happycat_91: -938014937
+      happycat_87: -1792500941
+      happycat_17: 996583393
+      happycat_122: -868232122
+      happycat_55: -1072831145
+      happycat_9: 565377738
+      happycat_76: -929297318
+      happycat_115: 139003376
+      happycat_16: 1433423928
+      happycat_22: -1557293891
+      happycat_45: -2029160478
+      happycat_5: 1214493769
+      happycat_105: 1280149675
+      happycat_7: 1502406999
+      happycat_64: 1931920869
+      happycat_88: 1812788535
+      happycat_116: -1890124905
+      happycat_34: -821786326
+      happycat_20: 765249923
+      happycat_121: -198490570
+      happycat_112: 862022301
+      happycat_8: 1242015548
+      happycat_39: -2097331698
+      happycat_6: -269436751
+      happycat_102: -1362688005
+      happycat_96: 526897290
+      happycat_18: -2146760068
+      happycat_119: 2123590117
+      happycat_99: -1690715031
+      happycat_97: -2010077831
+      happycat_36: -1919906413
+      happycat_52: 1939997084
+      happycat_1: -1233011659
+      happycat_94: 922509291
+      happycat_98: -182914352
+      happycat_92: 627372758
+      happycat_118: 369154289
+      happycat_74: -1502937158
+      happycat_24: -1933513127
+      happycat_2: 1455516289
+      happycat_114: -1123294613
+      happycat_109: -1278840683
+      happycat_75: 245941046
+      happycat_60: -295924757
+      happycat_73: 1993215325
+      happycat_27: 756901265
+      happycat_30: 1218080497
+      happycat_65: -1791132321
+      happycat_78: 7524032
+      happycat_38: -1191840538
+      happycat_63: 1665221663
+      happycat_41: 428814045
+      happycat_48: -1243239250
+      happycat_3: -1519646093
+      happycat_104: -766047809
+      happycat_21: 1626436921
+      happycat_32: 609584630
+      happycat_37: 1622187308
+      happycat_125: -1965490049
+      happycat_11: -1401493069
+      happycat_82: -101903821
+      happycat_43: -1957561203
+      happycat_42: -731595810
+      happycat_51: 1190706507
+      happycat_79: -1794445727
+      happycat_110: 1221283354
+      happycat_62: 86193277
+      happycat_35: 94405114
+      happycat_107: 1547597808
+      happycat_19: 1727664324
+      happycat_53: -1072908547
+      happycat_70: 486138634
+      happycat_83: 1721299034
+      happycat_14: -406523777
+      happycat_86: -1514857191
+      happycat_50: -886895658
+      happycat_67: 1931755438
+      happycat_120: -519796596
+      happycat_40: 1914852637
+      happycat_72: 388059315
+      happycat_26: -305395929
+      happycat_103: 337874568
+      happycat_68: 1574758770
+      happycat_69: 333299801
+      happycat_85: 2034291858
+      happycat_108: 1888457075
+      happycat_113: -343999667
+      happycat_77: -11542703
+      happycat_123: -418288976
+      happycat_29: 1432375234
+      happycat_54: 178489600
+      happycat_31: -1056480357
+      happycat_56: 1828686625
+      happycat_33: 2015022025
+      happycat_57: -477482658
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
