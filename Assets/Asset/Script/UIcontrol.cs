@@ -6,10 +6,30 @@ using UnityEngine.SceneManagement;
 public class UIcontrol : MonoBehaviour
 {
     // Start is called before the first frame update
-
     public string scenename;
-    public void onbuttonclick()
+    public GameObject CubeSpawner;
+    ARPlaceOnPlane arplaceclass;
+
+    void Start()
+    {
+        arplaceclass = CubeSpawner.GetComponent<ARPlaceOnPlane>();
+    }
+
+    public void onSceneChangeButtonclick()
     {
         SceneManager.LoadScene(scenename);
     }
+
+    public void onLandARAutoModeChange()
+    {
+        arplaceclass.ModeInitialize();
+        arplaceclass.SetFlag(1);
+    }
+
+    public void onLandARTouchModeChange()
+    {
+        arplaceclass.ModeInitialize();
+        arplaceclass.SetFlag(2);
+    }
+
 }
