@@ -30,8 +30,7 @@ public class ARPlaceOnPlane : MonoBehaviour
     {
         if (flag == 1) AutoUpdateCenterObject();
         else if (flag == 2) TouchPlaceObjectByTouch();
-        
-
+        else if (flag == 3) CatMoving();
     }
 
     public void SetFlag(int newflag)
@@ -82,7 +81,6 @@ public class ARPlaceOnPlane : MonoBehaviour
 
 
     private void AutoUpdateCenterObject() {
-
         //take camera center point
         Vector3 screenCenter = Camera.current.ViewportToScreenPoint(new Vector3(0.5f, 0.5f));
         //ray에 맞은 객체를 가져옴
@@ -110,8 +108,35 @@ public class ARPlaceOnPlane : MonoBehaviour
             text.text = "No Detect";
             if (spawnObject) spawnObject.SetActive(false);
         }
-
-
     }
 
+
+    private void CatMoving()
+    {
+        if (!spawnObject)
+        {
+            text.text = "No Spawn, Please make object";
+            return;
+        }
+
+        Touch touch = Input.GetTouch(0);
+        if (touch.phase == TouchPhase.Began){
+
+            List<ARRaycastHit> hits = new List<ARRaycastHit>();
+            text.text = "No Detect";
+
+            if (arRaycaster.Raycast(touch.position, hits, TrackableType.Planes))
+            {
+                text.text = "Touch!";
+                //hits배열에 ray와 충돌한 면의 위치에 대한 정보가 담기게 된다.
+                Pose hitPose = hits[0].pose;
+
+                spawnObject.transform.rotation = hitPose.rotation;
+                spawnObject.transform.position = Vector3.MoveTowards(spawnObject.transform.position, hitPose.position, 0.2f);
+            }
+        }
+        
+
+    }
+    
 }

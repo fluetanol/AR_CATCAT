@@ -32,4 +32,9 @@ public class UIcontrol : MonoBehaviour
         arplaceclass.SetFlag(2);
     }
 
+    public void onLandARMoveModeChange()
+    {
+        arplaceclass.SetFlag(3);
+    }
+
 }

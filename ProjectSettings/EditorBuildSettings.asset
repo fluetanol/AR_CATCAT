@@ -6,11 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Asset/Scenes/Facial AR.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
     path: Assets/Asset/Scenes/Land AR.unity
     guid: 83a7c0f31f89791488e043a61bb9f642
+  - enabled: 1
+    path: Assets/Asset/Scenes/Facial AR.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8f1fe204f624d474b85a8f0155986b1a, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9501523f929803a49b8b9fb2f1d251b1, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1dfeb2bc60861074fb08bd34e6498c84, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1f0b3e0eeccc31447a381bcec360c8ba, type: 2}
